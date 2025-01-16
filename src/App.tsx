@@ -8,7 +8,6 @@ import ListaVagas from './containers/ListaVagas/lista-index'
 function App() {
   return (
     <ThemeProvider theme={temaOriginal}>
-      <EstiloGlobal />
       <Cabecalho />
       <Hero />
       <Container>
